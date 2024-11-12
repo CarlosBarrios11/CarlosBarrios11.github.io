@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"com.javabuilders.demowebscraping"},{"l":"com.javabuilders.demowebscraping.controller"},{"l":"com.javabuilders.demowebscraping.model"},{"l":"com.javabuilders.demowebscraping.service"}];updateSearchResults();
